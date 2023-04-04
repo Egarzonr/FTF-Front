@@ -10,8 +10,6 @@ $ npm install
 
 ## Running the app
 
-## Navigate to `http://localhost:4200/`
-
 ```bash
 # development
 $ npm run start
@@ -22,6 +20,8 @@ $ npm run start:dev
 # watch mode
 $ Run `ng serve` for a dev server. . The application will automatically reload if you change any of the source files.
 ```
+
+## Navigate to `http://localhost:4200/`
 
 ## Test
 
