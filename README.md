@@ -10,7 +10,7 @@ $ npm install
 
 ## Running the app
 
-# The application will start on port 3000
+## Navigate to `http://localhost:4200/`
 
 ```bash
 # development
@@ -20,7 +20,7 @@ $ npm run start
 $ npm run start:dev
 
 # watch mode
-$ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+$ Run `ng serve` for a dev server. . The application will automatically reload if you change any of the source files.
 ```
 
 ## Test
